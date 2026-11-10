@@ -16,6 +16,9 @@ Desenvolvo **interfaces web modernas, responsivas e de alto desempenho**, transf
   <a href="https://www.tiktok.com/@dansousagtr">
     <img src="https://img.shields.io/badge/TikTok-@dansousagtr-000000?style=for-the-badge&logo=tiktok" />
   </a>
+  <a href="https://www.linkedin.com/in/daniel-sousa-3b53142b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-dansousagtr-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 ---
@@ -60,15 +63,12 @@ Desenvolvo **interfaces web modernas, responsivas e de alto desempenho**, transf
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![npm](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dansousagtr&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansousagtr&layout=compact&theme=tokyonight&locale=pt-br"/>
-</p>
-
+![GitHub Stats](https://github-readme-stats-rho-self-44.vercel.app/api?username=dansousagtr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-rho-self-44.vercel.app/api/top-langs/?username=dansousagtr&layout=compact&theme=radical)
 ---
 
 🚀 Philosophy
